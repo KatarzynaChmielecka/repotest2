@@ -1,5 +1,6 @@
 import './App.css';
 
+import Components from './Components';
 import logo from './logo.svg';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           teeeest
         </a>
       </header>
+      <Components/>
     </div>
   );
 }
